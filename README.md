@@ -1,2 +1,2 @@
-# tech-redis
+# NoSQL-Redis
 Git with GitKraken
